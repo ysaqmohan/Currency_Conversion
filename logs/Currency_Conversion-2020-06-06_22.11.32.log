@@ -1,0 +1,5 @@
+Script execution begining
+Traceback (most recent call last):
+  File "/edw/Currency_Conversion/python/Currency_script.py", line 45, in <module>
+    with open('/edw/Currency_Conversion/data/Conversion.csv','a') as f:
+PermissionError: [Errno 13] Permission denied: '/edw/Currency_Conversion/data/Conversion.csv'
